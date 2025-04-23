@@ -2,10 +2,6 @@
 
 A GPU-accelerated Mandelbrot set explorer that allows interactive navigation with zoom and drag capabilities.
 
-## Demo
-
-[Demo](resources/Demo.gif)
-
 ## Features
 
 - Real-time rendering using OpenGL fragment shaders
